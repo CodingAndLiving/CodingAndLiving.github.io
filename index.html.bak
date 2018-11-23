@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "当一个人专注一件事情时间久了，他也就成了专家"
+description: "Thinking will not overcome fear but action will."
 ---
 
 {% for post in paginator.posts %}
