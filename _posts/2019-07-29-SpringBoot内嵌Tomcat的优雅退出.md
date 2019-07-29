@@ -13,7 +13,7 @@ tags:
 ---
 # 前言
 
-> 在Linux服务器部署一文中讲到了单个Tomcat程序的优化配置，那么针对SpringBoot内嵌的Tomcat，又该如何操作呢？
+> 在[Linux服务器部署](https://codingandliving.github.io/2019/07/28/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/)一文中讲到了单个Tomcat程序的优化配置，那么针对SpringBoot内嵌的Tomcat，又该如何操作呢？
 
 # 思路
 
